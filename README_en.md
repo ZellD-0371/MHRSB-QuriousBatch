@@ -46,7 +46,7 @@ MonsterHunterRise/
    │  └─ QuriousBatch/
    │     └─ *.lua
    └─ fonts/
-      └─ QuriousBatch_Malgun.ttf
+      └─ QuriousBatch.ttf
 ```
 
 ### Toggle Shortcut
