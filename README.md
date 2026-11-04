@@ -1,3 +1,7 @@
+<p align="center">
+  <strong>한국어</strong> | <a href="README_en.md">English</a>
+</p>
+
 # Qurious Batch
 
 **몬스터 헌터 라이즈: 선브레이크의 방어구 괴이 강화를 10회 진행하고, 결과를 한 화면에서 비교해 하나를 선택하는 PC 모드입니다.**
