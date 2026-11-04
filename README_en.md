@@ -30,7 +30,9 @@ Select your armor and augmentation type at the smithy as usual to open the batch
 - Armor Qurious Crafting unlocked in the game
 - [REFramework](https://www.nexusmods.com/monsterhunterrise/mods/26?tab=files)
 
-To install REFramework, extract `dinput8.dll` from the ZIP archive into your Monster Hunter Rise installation folder. Press **Insert** to open its menu.
+To install REFramework, extract `dinput8.dll` from the ZIP archive into your Monster Hunter Rise installation folder. 
+
+Press **Insert** to open its menu.
 
 ### Mod Files
 
