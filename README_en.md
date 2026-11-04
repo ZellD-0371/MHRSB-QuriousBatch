@@ -56,7 +56,7 @@ MonsterHunterRise/
 | Nintendo | **ZR + Left Stick Click** |
 | Xbox | **RT + Left Stick Click** |
 | PlayStation | **R2 + L3** |
-| Keyboard | **~ + PageDown** |
+| Keyboard | **\~ + PageDown** |
 
 The shortcut only works in town. It is disabled during quests, in the training area, while loading, and while a batch crafting session is in progress. An on-screen notification indicates whether the mod is enabled or disabled. You can also toggle it using the checkbox in the REFramework settings.
 
