@@ -29,6 +29,7 @@
 - Windows용 Steam판 **Monster Hunter Rise: Sunbreak**
 - 게임에서 방어구 괴이 강화가 해금된 상태
 - [REFramework](https://www.nexusmods.com/monsterhunterrise/mods/26?tab=files)
+
 	설치하려면 zip 파일에서 dinput8.dll을 추출하여 ‘몬스터 헌터 라이즈’ 게임 설치 폴더에 넣기만 하면 됩니다.
 	Insert 키를 누르면 메뉴를 열 수 있습니다.
 
