@@ -56,7 +56,7 @@ MonsterHunterRise/
 | Nintendo 표기 | **ZR + L스틱 누름** |
 | Xbox 표기 | **RT + L스틱 누름** |
 | PlayStation 표기 | **R2 + L3** |
-| 키보드 | **~ 키 + PageDown** |
+| 키보드 | **\~ 키 + PageDown** |
 
 단축키는 마을에서만 동작하고, 퀘스트·훈련장·로딩 중이나 일괄 연성 처리 중에는 전환하지 않습니다. 활성화 여부는 화면 알림으로 표시됩니다. REFramework 설정창의 체크박스로도 전환할 수 있습니다.
 
